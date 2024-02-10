@@ -1,6 +1,6 @@
 package HomeWorkForSeminar_1;
 
-import HomeWork.HomeWorkForSeminar_1.CreditAccount;
+import Examples.Classes.Ex_bankingApp.CreditAccount;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

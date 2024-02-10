@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
-import static HomeWork.HomeWorkForSeminar_5.Homework.*;
+import static Examples.ExUniTests.Ex01.*;
 
 
 public class HomeworkTest {

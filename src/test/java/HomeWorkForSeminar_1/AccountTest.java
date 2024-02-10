@@ -1,7 +1,7 @@
 package HomeWorkForSeminar_1;
 
 
-import HomeWork.HomeWorkForSeminar_1.Account;
+import Examples.Classes.Ex_bankingApp.Account;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import java.math.BigDecimal;
